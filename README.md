@@ -1,1 +1,0 @@
-# imageai-backend-sdk-java
